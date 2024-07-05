@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thebx1994
 - 👀 I’m interested in bioinformatics and data analysis 
-- 🌱 I’m currently learning javascript, spring and database 
+- 🌱 I’m currently learning DSA. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
