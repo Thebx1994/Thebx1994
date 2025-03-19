@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thebx1994
 - 👀 I’m interested in bioinformatics and data analysis. 
-- 🌱 I’m currently learning numpy. 
+- 🌱 I’m currently learning data mining. 
 - 📫 How to reach me LinkedIn Alejandro Rivero
 
 <!---
